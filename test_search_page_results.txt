@@ -1,0 +1,12 @@
+C:\Users\dgile\myProjects\Sans\venv\Scripts\python.exe "C:/Program Files/JetBrains/PyCharm Community Edition 2023.2.3/plugins/python-ce/helpers/pycharm/_jb_pytest_runner.py" --target test_navigation.py::test_navigation
+Testing started at 9:41 AM ...
+Launching pytest with arguments test_navigation.py::test_navigation --no-header --no-summary -q in C:\Users\dgile\PycharmProjects\Sans\pages\pythonProject1
+
+============================= test session starts =============================
+collecting ... collected 1 item
+
+test_navigation.py::test_navigation PASSED                               [100%]
+
+============================= 1 passed in 23.09s ==============================
+
+Process finished with exit code 0
